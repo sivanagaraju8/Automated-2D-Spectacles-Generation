@@ -50,7 +50,7 @@ Your code which will be considered as final output, this can be done using any p
   * finally, draw a temple holder starting and attaching from the lens frame to the end 
                and the starting point of the image on both sides, respectively.
 
-  * The desired design will be displayed like below.
+  * The desired design will be displayed as PNG image file like below.
    ![Output Image](https://github.com/sivanagaraju8/Automated-2D-Spectacles-Generation-/blob/master/final_2d_out.png)
 
   #### Note: input is given in cms, it had mutiplied with 100 while performing on image with pixels.
