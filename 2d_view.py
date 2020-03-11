@@ -1,6 +1,6 @@
 '''
 --------------------------
-@ Author: Gamidi Siva NAgaraju
+@ Author: Gamidi Siva Nagaraju
 
 --------------------------
 '''
