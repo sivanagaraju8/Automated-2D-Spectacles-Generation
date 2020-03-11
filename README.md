@@ -7,15 +7,15 @@ Your code which will be considered as final output, this can be done using any p
 
 ## Prequisites
 * [Python](http://python.org)
-* [OpenCV]() 
-* [Numpy]()
-* [Pillow]()
+* [OpenCV](#) 
+* [Numpy](#)
+* [Pillow](#)
 
 ## Installing
 * install [Python](http://python.org)
-* install [OpenCV]() 
-* install [Numpy]()
-* install [Pillow]()
+* install [OpenCV](#) 
+* install [Numpy](#)
+* install [Pillow](#)
 ## Built with 
 * [Python](http://python.org)
 ### Design Procedure
