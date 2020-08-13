@@ -53,6 +53,8 @@ Your code which will be considered as final output, this can be done using any p
   * The desired design will be displayed as PNG image file like below.
    ![Output Image](https://github.com/sivanagaraju8/Automated-2D-Spectacles-Generation-/blob/master/final_2d_out.png)
 
+  ![Output Video](https://www.youtube.com/watch?v=yd5RWTsylLs)
+
   #### Note: input is given in cms, it had mutiplied with 100 while performing on image with pixels.
        	  Further details will be in code, in the form of comments.
           
