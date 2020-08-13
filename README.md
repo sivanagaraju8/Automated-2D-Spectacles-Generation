@@ -51,9 +51,9 @@ Your code which will be considered as final output, this can be done using any p
                and the starting point of the image on both sides, respectively.
 
   * The desired design will be displayed as PNG image file like below.
-   ![Output Image](https://github.com/sivanagaraju8/Automated-2D-Spectacles-Generation-/blob/master/final_2d_out.png)
+   ![Output Image](https://github.com/sivanagaraju8/Automated-2D-Spectacles-Generation-/blob/master/final_2d_out.png) <br>
 
-  ![Output Video](https://www.youtube.com/watch?v=yd5RWTsylLs)
+  * [![Alt text for your video](https://img.youtube.com/vi/yd5RWTsylLs/0.jpg)](http://www.youtube.com/watch?v=yd5RWTsylLs)
 
   #### Note: input is given in cms, it had mutiplied with 100 while performing on image with pixels.
        	  Further details will be in code, in the form of comments.
